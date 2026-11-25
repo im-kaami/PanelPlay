@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+*.keystore
+*.aab
+*.apk
+
+
+/output/
+/PanelPlay-Development-Notes.md
+/NET MAUI Semester Project Assignment.pdf
